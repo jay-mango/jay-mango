@@ -24,8 +24,8 @@ I'm a proactive problem solver and always open to learning new concepts and skil
 
 ## Hobbies
 * Playing and watching Sports   
-* Documentries   
-* Traveling and Exporing 
+* Documentaries   
+* Traveling and Exploring 
 
 <h2 align="left">I code with</h2>
 
@@ -53,6 +53,11 @@ I'm a proactive problem solver and always open to learning new concepts and skil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((www.linkedin.com/in/jayden-mangaroo)) 
+
+  
 </div>
 
 ###
