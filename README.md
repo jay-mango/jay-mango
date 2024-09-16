@@ -24,8 +24,8 @@ I'm a proactive problem solver and always open to learning new concepts and skil
 
 ## Hobbies
 * Playing and watching Sports   
-* Docuumentries   
-* Working out 
+* Documentries   
+* Traveling and Exporing 
 
 <h2 align="left">I code with</h2>
 
