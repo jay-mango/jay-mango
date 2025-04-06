@@ -6,9 +6,9 @@
 
 ###
 
-I'm an aspiring Software Engineer with a strong passion for creation 🖥️
+I'm an aspiring Technical Product Manager with a strong passion for creation of AI-driven Products 🖥️
 
-I'm a Mechatronics Engineering Student @ University of Waterloo 😎
+I'm a Mechatronics Engineering Student @ University of Waterloo, with AI option 🤖
 
 I'm a proactive problem solver and always open to learning new concepts and skills 👨🏽‍💻
 
