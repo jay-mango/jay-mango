@@ -6,7 +6,7 @@
 
 ###
 
-I'm an aspiring Technical Product Manager with a strong passion for creation of AI-driven Products 🖥️
+I’m an aspiring Technical Product Manager passionate about building AI-driven products. 🖥️
 
 I'm a Mechatronics Engineering Student @ University of Waterloo, with AI option 🤖
 
