@@ -12,20 +12,20 @@ I'm a Mechatronics Engineering Student @ University of Waterloo, with AI option 
 
 I'm a proactive problem solver and always open to learning new concepts and skills 👨🏽‍💻
 
-## Interests 💡
-* Full-Stack Development     
+## Interests 💡     
 * Robotics and Automation      
-* Artificial Intelligence and Machine Learning 
+* Artificial Intelligence and Machine Learning
+* Product Adoption & Growth
 
 ## Currently Learning 🧠
-* Firmware Communication Protocols   
-* Predictive Modeling    
-* Web Scraping   
+* AI Predictive Modeling
+* UI / UX Design
+* Web Scraping & API calls  
 
 ## Hobbies
-* Playing and watching Sports   
+* Playing and watching sports   
+* Traveling and Exploring
 * Documentaries   
-* Traveling and Exploring 
 
 <h2 align="left">I code with</h2>
 
