@@ -8,7 +8,7 @@
 
 I’m an aspiring Technical Product Manager passionate about building AI-driven products. 🖥️
 
-I'm a Mechatronics Engineering Student @ University of Waterloo, with AI option 🤖
+I'm a Mechatronics Engineering Student @ University of Waterloo 🤖
 
 I'm a proactive problem solver and always open to learning new concepts and skills 👨🏽‍💻
 
